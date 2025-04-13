@@ -1,0 +1,10 @@
+some additional array function to check out:
+
+array_merge();
+array_unique();
+array_intersect();
+
+array_push();
+array_pop();
+array_shift();
+array_unshift();
